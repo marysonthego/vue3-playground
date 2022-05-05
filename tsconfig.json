@@ -1,9 +1,10 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
+    "jsx" : "preserve",
     "allowSyntheticDefaultImports": false,
     "allowJs": true,
-    "alwaysStrict": true,
+    "alwaysStrict": false,
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
